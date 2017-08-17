@@ -1,0 +1,77 @@
+2500,Valby
+2600,Glostrup
+2605,Brøndby
+2610,Rødovre
+2620,Albertslund
+2625,Vallensbæk
+2630,Taastrup
+2633,Taastrup Nordsjællands Postcenter
+2635,Ishøj
+2640,Hedehusene
+2650,Hvidovre
+2660,Brøndby Strand
+2665,Vallensbæk Strand
+2670,Greve
+2680,Solrød Strand
+2690,Karlslunde
+2700,Brønshøj
+2720,Vanløse
+2730,Herlev
+2740,Skovlunde
+2750,Ballerup
+2760,Måløv
+2765,Smørum
+2770,Kastrup
+2791,Dragør
+2800,Kongens Lyngby
+2820,Gentofte
+2830,Virum
+2840,Holte
+2850,Nærum
+2860,Søborg
+2870,Dyssegård
+2880,Bagsværd
+2900,Hellerup
+2920,Charlottenlund
+2930,Klampenborg
+2942,Skodsborg
+2950,Vedbæk
+2960,Rungsted Kyst
+2970,Hørsholm
+2980,Kokkedal
+2990,Nivå
+3000,Helsingør
+3050,Humlebæk
+3060,Espergærde
+3070,Snekkersten
+3080,Tikøb
+3100,Hornbæk
+3120,Dronningmølle
+3140,Ålsgårde
+3150,Hellebæk
+3200,Helsinge
+3210,Vejby
+3220,Tisvildeleje
+3230,Græsted
+3250,Gilleleje
+3300,Frederiksværk
+3310,Ølsted
+3320,Skævinge
+3330,Gørløse
+3360,Liseleje
+3370,Melby
+3390,Hundested
+3400,Hillerød
+3450,Allerød
+3460,Birkerød
+3480,Fredensborg
+3490,Kvistgård
+3500,Værløse
+3520,Farum
+3540,Lynge
+3550,Slangerup
+3600,Frederikssund
+3630,Jægerspris
+3650,Ølstykke
+3660,Stenløse
+3670,Veksø Sjælland
